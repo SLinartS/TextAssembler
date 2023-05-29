@@ -4,7 +4,7 @@
 
 The application collects all the text from the files into one file.
 
-### All settings in config.py
+### All settings in config.py. Copy config.example.py -> config.py
 
 ##### start_path: string
 
@@ -33,7 +33,7 @@ Otherwise, the information is added to the end of the result file at each run.
 
 Приложение собирает весь текст из файлов в один файл.
 
-## Все настройки в config.py
+## Все настройки в config.py. Скопировать config.example.py -> config.py
 
 #### start_path: string
 
